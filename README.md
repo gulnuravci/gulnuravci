@@ -6,9 +6,7 @@ My favorite project I am working on right now is a [virtual reality experience w
 
 I'm reading "Machine Learning with PyTorch and Sci-kit Learn"
 
-I maintain a [DSA study guide](https://motley-tennis-c9a.notion.site/Leetcode-b9ff3e506bdb400fad510dafc3b009d8) that people on Reddit regularly request access to (and I hope they use it?) 
-
 Technical info:  
-**Languages:** Python, C++, C#, C, JavaScript, GraphQL, Java  
-**Libraries/Frameworks:** Node.js, React/React Native, LangChain, PyTorch, Hugging Face, Playwright, Matplotlib, Pandas, NumPy, SciPy, Tensorboard  
-**Tools/Software:** Unity Game Engine, Postman, Git, MATLAB, LaTeX  
+**Languages:** C++, C#, Python, JavaScript, C, GraphQL
+**Libraries/Frameworks:** Node.js, React/React Native, PyTorch, LangChain, Hugging Face, Playwright, Matplotlib, Pandas, NumPy, SciPy, Tensorboard  
+**Tools/Software:** Unity Game Engine, MATLAB
