@@ -8,7 +8,7 @@ Currently reading _Machine Learning with PyTorch and Sci-kit Learn_, _Optimizing
 
 Technical info:  
 - **Languages:** C++, C#, Python, Typescript, C
-- **Libraries/Frameworks:** PyTorch, LangChaine, Node.js, React/React Native, Playwright, Matplotlib, Pandas, NumPy, SciPy, Tensorboard  
-- **Tools/Software/Services:** Unity Game Engine, AWS, Hugging Fac, MATLAB, Vivado
+- **Libraries/Frameworks:** PyTorch, LangChain, Node.js, React/React Native, Playwright, Matplotlib, Pandas, NumPy, SciPy, Tensorboard  
+- **Tools/Software/Services:** Unity Game Engine, AWS, Hugging Face, MATLAB, Vivado
 
 ![giphy](https://github.com/user-attachments/assets/e28ab745-a599-4e4f-a2fb-f8f6a5bf5365)
